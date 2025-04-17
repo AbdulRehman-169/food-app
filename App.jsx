@@ -19,6 +19,8 @@ const App = () => {
   )
 }
 
+// hello there
+
 export default App
 
 const styles = StyleSheet.create({

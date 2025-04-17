@@ -24,5 +24,6 @@ export default App
 const styles = StyleSheet.create({
   Main: {
     flex: 1,
+    margin: 0
   }
 })
